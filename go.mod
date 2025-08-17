@@ -1,4 +1,4 @@
-module example.com/m/v2
+module yunganews
 
 go 1.24.2
 
